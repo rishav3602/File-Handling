@@ -1,0 +1,6 @@
+f = open('another.txt', 'w')
+f.write("Please write this to that file.")
+f.write("Please write this to that file.")
+f.write("Please write this to that file.")
+f.write("Please write this to that file.")
+f.close()
